@@ -219,7 +219,7 @@ It appears there may have been some fraudluent test charges in January and March
 
 ### Challenge
 
-Using the [challenge starter notebook](Starter_Files/challenge.ipynb), I coded two Python functions:
+Using the [challenge starter notebook](Submission/challenge.ipynb), I coded two Python functions:
 * One that uses standard deviation to identify anomalies for any cardholder.
 * Another that uses interquartile range to identify anomalies for any cardholder.
 
